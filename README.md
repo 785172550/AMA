@@ -1,3 +1,5 @@
+![Hang's GitHub stats](https://github-readme-stats.vercel.app/api?username=785172550&show_icons=true&include_all_commits=true)
+
 # AMA(Ask Me Anything) / 欢迎提问 & PR 合作
 
 Feel free to ask me anything or open a PR — I'm always happy to discuss ideas and contribute to open source projects.
